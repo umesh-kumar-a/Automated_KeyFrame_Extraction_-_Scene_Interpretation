@@ -1,11 +1,11 @@
-# 📌 Automated Key Frame Extraction and Scene Interpretation
+#  Automated Key Frame Extraction and Scene Interpretation
 
 An intelligent computer vision system that automatically detects important events in videos, extracts key action frames, and generates meaningful scene descriptions using deep learning models.  
 This project helps quickly understand long surveillance or accident videos without watching the entire footage.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Analyzing long videos manually is time-consuming and inefficient. This system automates the entire process by detecting objects, identifying motion-heavy frames, extracting only important moments, and generating captions that describe each scene.
 
@@ -13,7 +13,7 @@ The pipeline combines object detection, motion analysis, and image captioning to
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - Automated keyframe extraction from videos  
 - Object detection using YOLOv8  
@@ -25,7 +25,7 @@ The pipeline combines object detection, motion analysis, and image captioning to
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python  
 - OpenCV  
@@ -37,7 +37,7 @@ The pipeline combines object detection, motion analysis, and image captioning to
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Automated_KeyFrame_Extraction_-_Scene_Interpretation/
 │
 ├── src/                # Core Python scripts
@@ -50,7 +50,7 @@ Automated_KeyFrame_Extraction_-_Scene_Interpretation/
 
 
 
-## ▶️ How to Run
+##  How to Run
 
 ### Run full pipeline
 python main.py --input video.mp4
@@ -63,7 +63,7 @@ python generate_captions.py
 
 ---
 
-## 📤 Output
+##  Output
 
 After execution, the system generates:
 
@@ -77,7 +77,7 @@ You will get:
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Accident detection  
 - Traffic surveillance analysis  
@@ -88,7 +88,7 @@ You will get:
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -101,7 +101,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Real-time webcam support  
 - Web dashboard interface  
@@ -112,9 +112,5 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
 
-Umesh Kumar A  
-Computer Science Engineering (Cybersecurity)  
-Bengaluru, India  
 
